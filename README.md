@@ -18,7 +18,7 @@ You can view the live version of my portfolio by visiting the following link:
 ## Contact
 
 You can reach me via:
-- Email: [hayder.sadik@example.com]  *(replace this with your actual email)*
+- Email: [haydersadik2007@gmail.com]
 - LinkedIn: [Hayder Sadik](https://www.linkedin.com/in/hayder-sadik)
 - GitHub: [Hayder2007](https://github.com/hayder2007)
 
